@@ -1,3 +1,7 @@
-# Catstronauts - server
+## Install server dependancies
 
-The starting point of the `server` code for Odyssey Lift-off I course.
+### `yarn install`
+
+## Run back project
+
+### `yarn start`
