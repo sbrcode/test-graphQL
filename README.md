@@ -1,34 +1,23 @@
-# Odyssey Lift-off I: Basics
+## Clone project
 
-Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
+### `git clone <repo_name>`
 
-You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
+## Install server dependancies
 
-## How to use this repo
+### `cd <repo_name>/server`
 
-The course will walk you step by step on how to implement the features you see in the demo app. This codebase is the starting point of your journey!
+### `yarn install`
 
-There are 2 main folders:
+## Run project
 
-- `server`: The starting point of our GraphQL server.
-- `client`: The starting point of our React application.
+### `yarn start`
 
-To get started:
+## Install client dependancies
 
-1. Navigate to the `server` folder.
-1. Run `npm install`.
-1. Run `npm start`.
+### `cd <repo_name>/client`
 
-This will start the GraphQL API server.
+### `yarn install`
 
-In another Terminal window,
+## Run project
 
-1. Navigate to the `client` folder.
-1. Run `npm install`.
-1. Run `npm start`.
-
-This will open up `localhost:3000` in your web browser.
-
-## Getting Help
-
-For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
+### `yarn start`
